@@ -1,2 +1,1 @@
-# kickstarter_analysis
-Analyzing Kickstarter campaign
+# Analyzing Kickstarter campaign

@@ -1,1 +1,1 @@
-## Analyzing Kickstarter campaign
+## Analyzing Kickstarter dataset
